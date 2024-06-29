@@ -23,5 +23,5 @@
 ![CyberSagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersagnik&show_icons=true&theme=dark)
 
 ### Recent Projects
-- [Project 1](https://github.com/cybersagnik/project-1): Short description of Project 1.
+- [Project 1](https://github.com/cybersagnik/project-1): A write-up on bypassing snort's scan rules.
 
