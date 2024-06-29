@@ -24,5 +24,4 @@
 
 ### Recent Projects
 - [Project 1](https://github.com/cybersagnik/project-1): Short description of Project 1.
-- [Project 2](https://github.com/cybersagnik/project-2): Short description of Project 2.
-- [Project 3](https://github.com/cybersagnik/project-3): Short description of Project 3.
+
