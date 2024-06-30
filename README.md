@@ -1,6 +1,5 @@
 # Hi there, I'm Sagnik! 👋
-## Security Enthusiast | Ethical Hacker
-
+## Security Enthusiast | A Curious Creature  🤔 
 ### About Me
 - 🔭 I’m currently exploring the realms of cybersecurity and ethical hacking.
 - 🌱 I’m learning more about web application security and penetration testing techniques.
