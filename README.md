@@ -11,8 +11,6 @@
 - 🔐 Penetration Testing
 - 🛡️ Network Security
 - 🖥️ Web Application Security
-- 📡 Wireless Security
-- 🌐 Cryptography
 
 ### Connect with Me
 - 📫 How to reach me: [Discord](https://www.discord.com/users/sagnik_chandra_ray)
@@ -23,4 +21,5 @@
 
 ### Recent Projects
 - [Project 1](https://github.com/cybersagnik/project-1): A write-up on bypassing snort's scan rules.
+- [Project 2](https://github.com/cybersagnik/lsb-steganography-tool) : lsb-steganography simulator
 
